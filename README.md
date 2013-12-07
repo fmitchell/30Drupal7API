@@ -1,13 +1,9 @@
-# What I Learned from My First Dev Competition
+# 30 Drupal 7 API Functions You Should Already Know
 
 This is a presentation based off of [reveal.js](https://github.com/hakimel/reveal.js).
 
 ## Overview
 
-The best way to learn something new, is to do it. Even better, why not try to win something!
+Now that you've gotten your feet wet building sites with Drupal 7, it's a good idea to look up and make sure that you're efficiently utilizing the Drupal 7 API.
 
-Explore with me the highs and lows of learning the micro-framework Slim PHP, the mapping framework Leaflet.js, integrating with MongoDB, and the Mustache templating framework while trying to win a developer competition put on recently by Jotform.com.
-
-I'll talk about my planning process, how I came up with the idea for my app, my testing process, some pitfalls that I unfortunately fell through, and the analytics I used to assess whether my users were following the assumptions I made when designing the application.
-
-I'll also share some resources I found to help me learn to use the tools for my app and the next steps for my next developer competition entry.
+We'll jump through common API functions, with code snippets mainly derived from the excellent Examples module.
